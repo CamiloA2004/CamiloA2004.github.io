@@ -1,0 +1,24 @@
+
+h1 {
+color: yellow;
+font-size: 32px;
+font-style: italic;
+font-family: Montserrat, "Copperplate",Copperplate, Arial, sans-serif;
+}
+
+.score{
+  color: #aa3451;
+}
+
+#gameLink {
+text-align: center;
+border: 1px solid gray;
+}
+
+body {
+  background-color: lightblue;
+}
+
+
+.score {
+color: gray;
